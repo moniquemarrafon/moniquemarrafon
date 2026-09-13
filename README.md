@@ -1,36 +1,33 @@
+<div align="center">
+
 # Monique Marrafon
 
-Em transição de carreira para Tecnologia da Informação, com foco em desenvolvimento backend e cibersegurança / pentest. Vila Nova de Gaia, Portugal.
+**Backend & Cibersegurança / Pentest** · Vila Nova de Gaia, Portugal
 
-Atualmente a concluir o **CET em Tecnologias e Programação de Sistemas de Informação** (IEFP) e em formação complementar em **Cibersegurança e Pentest** (Solyd One).
-
-- 🌐 Portfólio: [moniquemarrafon.github.io](https://moniquemarrafon.github.io)
-- 📫 Email: [marrafonmonique7@gmail.com](mailto:marrafonmonique7@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/moniquemarrafon](https://linkedin.com/in/moniquemarrafon)
-
----
-
-### Competências técnicas
+[Portfólio](https://moniquemarrafon.github.io) · [LinkedIn](https://linkedin.com/in/moniquemarrafon) · [Email](mailto:marrafonmonique7@gmail.com)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Cibersegurança / Pentest
-
-Fundamentos de Segurança da Informação · Criptografia · Reconhecimento (Recon) · Segurança em Aplicações Web · Active Directory
+</div>
 
 ---
 
-### Projetos em destaque
+### Projetos
 
-- **[linux-commands-cheat-sheet](https://github.com/moniquemarrafon/linux-commands-cheat-sheet)** — Cheat sheet interativo de comandos Linux em Python, com 17 categorias e busca por palavra-chave.
-- **Scanner de Pentest — Controlo de Servidor** *(em preparação)* — Ferramenta educativa em Python que simula um ataque completo contra um servidor vulnerável (DVWA), explorando Command Injection.
-- **Sistema de Reconhecimento Facial** *(em preparação)* — Sistema de segurança com reconhecimento facial em tempo real (Python, OpenCV, InsightFace).
+| Repositório | Descrição |
+|---|---|
+| [linux-commands-cheat-sheet](https://github.com/moniquemarrafon/linux-commands-cheat-sheet) | Cheat sheet interativo de comandos Linux, 17 categorias, busca por palavra-chave |
+| Scanner de Pentest *(em preparação)* | Simulação de ataque via Command Injection contra servidor vulnerável (DVWA) |
+| Reconhecimento Facial *(em preparação)* | Sistema de segurança com deteção facial em tempo real (OpenCV, InsightFace) |
+
+### Formação
+
+CET em Tecnologias e Programação de Sistemas de Informação — IEFP · Cibersegurança e Pentest — Solyd One
 
 ---
 
