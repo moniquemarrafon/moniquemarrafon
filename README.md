@@ -23,7 +23,7 @@
 |---|---|
 | [linux-commands-cheat-sheet](https://github.com/moniquemarrafon/linux-commands-cheat-sheet) | Cheat sheet interativo de comandos Linux, 17 categorias, busca por palavra-chave |
 | Scanner de Pentest *(em preparação)* | Simulação de ataque via Command Injection contra servidor vulnerável (DVWA) |
-| Reconhecimento Facial *(em preparação)* | Sistema de segurança com deteção facial em tempo real (OpenCV, InsightFace) |
+| [Reconhecimento Facial](https://github.com/moniquemarrafon/RECONHECIMENTO.AT) | Sistema de segurança com deteção facial em tempo real (OpenCV, InsightFace) |
 
 ### Formação
 
