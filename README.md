@@ -22,7 +22,7 @@
 | Repositório | Descrição |
 |---|---|
 | [linux-commands-cheat-sheet](https://github.com/moniquemarrafon/linux-commands-cheat-sheet) | Cheat sheet interativo de comandos Linux, 17 categorias, busca por palavra-chave |
-| Scanner de Pentest *(em preparação)* | Simulação de ataque via Command Injection contra servidor vulnerável (DVWA) |
+| [Scanner de Pentest](https://github.com/moniquemarrafon/dvwa-command-injection-toolkit) | Simulação de ataque via Command Injection contra servidor vulnerável (DVWA) |
 | [Reconhecimento Facial](https://github.com/moniquemarrafon/RECONHECIMENTO.AT) | Sistema de segurança com deteção facial em tempo real (OpenCV, InsightFace) |
 
 ### Formação
